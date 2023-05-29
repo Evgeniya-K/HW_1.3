@@ -81,7 +81,7 @@ class Hw_1_3_2KtTest {
 
         val result = fee(paymentMethod, valueTransfer, valueMonthTransfer)
 
-        assertEquals(-2,result)
+        assertEquals(-8,result)
     }
 
     @Test
